@@ -5,6 +5,7 @@ These solutions are more or less complete. Some of the questions which went over
 
 Key takeaways:
 
-1. A fundamental course for breaking into theoretical ML.
-2. Homework problems were not run-of-the-mill; each problem sought to teach more about the concept.
-3. My math sucks lol.
+1. This was a math course in the guise of an ML course.
+2. A fundamental course for breaking into theoretical ML and a solid foundation for specializations like CV, NLP etc.
+3. Homework problems were not run-of-the-mill; each problem sought to teach more about the concept.
+4. My math sucks XD.
